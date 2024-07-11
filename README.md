@@ -7,10 +7,9 @@ PSYCHE experimental data of azithromycin, estradiol and ibuprofen:
 2. exp_estradiol.mat
 3. exp_ibuprofen.mat
 
-Model weight file (model_rtzs.h5) can be download from the weblink: https://www.dropbox.com/s/1yfoj91r7n2d505/model_rtzs.h5
-
 Model can be tested or used by the file:
 1. modelTest.py
+2. Model (EDHR_Net.h5) 
 
 Model training code is shown in the file：
 1. train.py
